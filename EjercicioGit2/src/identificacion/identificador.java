@@ -6,6 +6,7 @@ public class identificador {
 		System.out.println("Hola caracola");
 		System.out.println("adios cocodrilo");
 		System.out.println("Hola pepsicola");
+		System.out.println("adios cocacola");
 	}
 
 }
